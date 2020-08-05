@@ -1,0 +1,4 @@
+mysql de schemas icinde petshop tanimla,
+asagidaki tablolari olustur:
+hastalar(turu VARCHAR(45), adi VARCHAR(45), cinsi VARCHAR(45))
+kullanicilar(id int unique, autoincrement, adi VARCHAR(45), sifre VARCHAR(45))
